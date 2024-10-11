@@ -1,45 +1,36 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=aisacc/Aplicacion-Hidraulica) [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/173760-aplicacion-hidraulica)
 
 # Ingeniería hidráulica | Aplicaciones
-*Aplicación de **Ingeniería Civil**. Especialidad: **Hidráulica***
+- *Campo principal de aplicación: **Ingeniería Civil**, **Ingeniería Hidráulica***
+- *Especialidad: **Hidráulica***
+- *Otros campos de aplicación: **Ingeniería Mecánica**, **Ingeniería Química***
 
 ## Autor
-*Autor: **Isacc Alpala**. Área de estudio: **Ingeniería civil***
+- *Autor: **Isacc Alpala***
+- *Área de estudio: **Ingeniería civil***
 
 ## Alcance y pre-requisitos
-**Alcance.** [...]
+**Alcance.** Todo el material alojado en este repositorio está relacionado con la Ingeniería Civil, Especialidad Hidráulica, o Ingeniería Hidráulica. Asimismo, debido a que una buena parte del material está asociado con la **Mecánica de Fluidos**, también se puede utilizar este material en Ingeniería Mecánica, Ingeniería Química y en cualquier ingeniería que estudie y aplique la **Mecánica de Fluidos**.
 
 **Pre-requisitos.** Los siguientes pre-requisitos corresponden a asignaturas de la carrera de ingeniería civil de pregrado.
-- Estática
-- Dinámica
-- Resistencia de materiales
-- Diseño de hormigón armado (_concreto armado_ o _concreto reforzado_)`*`
-- Diseño de estructuras de acero`**`
+- Hidráulica básica
+- Hidráulica aplicada
+- Hidráulica de canales y tuberías
+- Alcantarillado urbano
+- Diseño hidráulico
+- Diseño de proyectos hidráulicos
 
-`*` _Conocimientos para entender y utilizar el código del diagrama para hormigón armado._
+*Para el uso de este repositorio y su material **no es necesario haber tomado todas las asignaturas***. Mucho material posee la suficiente documentación para su fácil manipulación y adecuado uso aún en etapas tempranas de aprendizaje y/o diseño.
 
-`**` _Conocimientos para entender y utilizar el código del diagrama para sección compuesta de acero y hormigón._
+Por otra parte, si las asignaturas listadas previamente no llegasen a ser familiares, pero sí se tiene una base sólida en **Hidráulica** y **Mecánica de Fluidos**, entonces se recomienda revisar las referencias y la bibliografía utilizadas. 
 
 ## Descripción
-En este repositorio de desarrollan los códigos para la creación de 2 diagramas:
-1. **Diagrama de interacción de columnas de hormigón armado** (_concreto armado_) de sección rectangular.
-2. **Diagrama de interacción de columnas de sección compuesta rectangular** (tubo estructural de acero relleno de hormigón, o _concreto_).
-
-_**El resultado de los códigos es el diagrama de interacción**_ con suficiente detalle para su fácil lectura, análisis e interpretación.
+En este repositorio se aloja material (principalmente código) de uso académico, investigativo y profesional, para el análisis y diseño relacionado con la **Mecánica de Fluidos**.
 
 ## Contexto
-El diagrama de interacción de columnas es una herramienta fundamental en la ingeniería civil, especialmente en el diseño estructural de edificios. Este diagrama representa gráficamente la relación entre la carga axial (fuerza de compresión) y el momento flector (esfuerzo de flexión) que una columna puede soportar simultáneamente sin fallar.
+La mecánica de fluidos estudia el comportamiento de líquidos y gases en reposo y movimiento. Es clave en la hidráulica, que aplica estos principios para resolver problemas prácticos como el transporte de agua, drenaje, control de inundaciones, riego y generación de energía.
 
-**Importancia del Diagrama de Interacción:**
-1. **Diseño Seguro y Eficiente:** El diagrama de interacción permite a los ingenieros garantizar que las columnas en un edificio pueden soportar tanto las cargas verticales (como el peso de la estructura y las cargas de ocupación) como las fuerzas horizontales (por ejemplo, vientos o terremotos). Al combinar estos efectos en un solo gráfico, se asegura que el diseño sea seguro y eficiente, evitando el sobre-dimensionamiento de las columnas.
-
-2. **Visualización de la Capacidad:** Facilita la visualización de la capacidad resistente de la columna, mostrando los límites dentro de los cuales la columna funcionará de manera segura. Esto es crucial para evitar el colapso estructural, ya que indica los puntos críticos donde una columna puede fallar.
-
-3. **Optimización de Materiales:** Al usar el diagrama de interacción, los ingenieros pueden optimizar la cantidad de materiales (como concreto y acero) utilizados en una columna, balanceando las demandas de carga axial y momento flector. Esto no solo garantiza la seguridad, sino que también reduce costos y mejora la eficiencia del diseño.
-
-4. **Evaluación de Condiciones Reales:** En la práctica, las columnas rara vez están sujetas solo a carga axial o solo a momentos flectores; generalmente están expuestas a ambos. El diagrama de interacción permite evaluar cómo se comporta una columna bajo condiciones combinadas, reflejando mejor la realidad de su funcionamiento dentro de una estructura.
-
-Por lo tanto, el diagrama de interacción de columnas es esencial en la ingeniería civil para diseñar estructuras seguras, optimizar el uso de materiales, y garantizar que las columnas pueden soportar las combinaciones de cargas y momentos que experimentarán durante su vida útil.
+En la ingeniería hidráulica se usa para diseñar sistemas como tuberías, canales y bombas, aplicando ecuaciones como las de Darcy-Weisbach y Bernoulli para calcular pérdidas de energía, dimensionar infraestructuras y optimizar el flujo de agua en proyectos urbanos y agrícolas.
 
 ## Nomenclatura de archivos
 * Los archivos que inician con `nb` (_notebook_ o cuaderno) son aquellos que se deben abrir y ejecutar.
@@ -49,4 +40,19 @@ Por lo tanto, el diagrama de interacción de columnas es esencial en la ingenier
  _**Todos los códigos se pueden modificar según la necesidad.**_ 
 
 ## Referencias
-* [...]
+Dado que este repositorio dispone de varias funciones, proyectos y diseños, las referencias se encuentran en cada cuaderno (archivos de nomenclatura `nb`) de la carpeta correspondiente.
+
+## Social media
+- Instagram: [Aisacc](https://www.instagram.com/aisacc.me/)
+- LinkedIn: [Isacc Alpala](https://www.linkedin.com/in/isaccalpala/)
+- YouTube: [Aisacc](https://www.youtube.com/@aisacc-me/)
+
+## Comparte conmigo tus dudas, peticiones o recomendaciones
+- Discord: [Comunidad Technica](https://discord.com/invite/V6MedeXDkA)
+
+Si no sabes cómo utilizar Discord, en dónde hacer tus preguntas o tengas alguna otra inquietud, **mira este vídeo**: [Conoce la comunidad de Technica](www.youtube.com).
+
+## Asistencia personalizada
+- WhatsApp: [+593 96 395 3992](https://wa.me/593963953992)
+
+Contáctame si requieres asistencia personalizada en tu proyecto para **análisis, revisión, diseño, optimización, automatización o similares**.
