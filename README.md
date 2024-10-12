@@ -55,4 +55,4 @@ Si no sabes cómo utilizar Discord, en dónde hacer tus preguntas o tengas algun
 ## Asistencia personalizada
 - WhatsApp: [+593 96 395 3992](https://wa.me/593963953992)
 
-Contáctame si requieres asistencia personalizada en tu proyecto para **análisis, revisión, diseño, optimización, automatización o similares**.
+Contáctame si requieres asistencia personalizada en tu proyecto para **análisis, revisión, diseño, optimización, automatización o algo similar**.
