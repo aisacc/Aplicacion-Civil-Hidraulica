@@ -1,0 +1,2 @@
+El catálogo (detallado en las referencias) utilizado para obtener los valores de diámetros comerciales (añadidos al archivo "aux_entradas.xlsx") fue escogido al azar.
+El diseñador puede escoger el catálogo de su preferencia.
