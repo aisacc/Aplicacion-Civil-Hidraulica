@@ -47,7 +47,7 @@ Dado que este repositorio dispone de varias funciones, proyectos y diseños, las
 - LinkedIn: [Isacc Alpala](https://www.linkedin.com/in/isaccalpala/)
 - YouTube: [Aisacc](https://www.youtube.com/@aisacc-me/)
 
-## Comparte conmigo tus dudas, peticiones o recomendaciones
+## Comparte conmigo tus dudas o recomendaciones
 - Discord: [Comunidad Technica](https://discord.com/invite/V6MedeXDkA)
 
 Si no sabes cómo utilizar Discord, en dónde hacer tus preguntas o tengas alguna otra inquietud, **mira este vídeo**: [Conoce la comunidad de Technica](www.youtube.com).
