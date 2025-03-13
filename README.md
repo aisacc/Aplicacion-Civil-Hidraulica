@@ -47,7 +47,7 @@ Dado que este repositorio dispone de varias funciones, proyectos y diseños, las
 - **LinkedIn:** [Isacc Alpala](https://www.linkedin.com/in/isaccalpala/)
 
 ## Comparte conmigo tus dudas o recomendaciones
-- **Discord:** [Comunidad Technica](https://discord.com/invite/V6MedeXDkA). Aquí puedes postear tus dudas sobre **programación y otras herramientas de ingeniería**.
+- **Discord:** [La Academia](https://discord.com/invite/V6MedeXDkA). Aquí puedes postear tus dudas sobre **programación y otras herramientas de ingeniería**.
 
 Si no sabes cómo utilizar Discord, en dónde hacer tus preguntas o tengas alguna otra inquietud, **mira este vídeo**: [Conoce la comunidad de Technica](www.youtube.com).
 
