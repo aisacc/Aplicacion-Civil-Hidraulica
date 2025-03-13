@@ -49,7 +49,7 @@ Dado que este repositorio dispone de varias funciones, proyectos y diseños, las
 ## Comparte conmigo tus dudas o recomendaciones
 - **Discord:** [La Academia](https://discord.com/invite/V6MedeXDkA). Aquí puedes postear tus dudas sobre **programación y otras herramientas de ingeniería**.
 
-Si no sabes cómo utilizar Discord, en dónde hacer tus preguntas o tengas alguna otra inquietud, **mira este vídeo**: [Conoce la comunidad de Technica](www.youtube.com).
+Si no sabes cómo utilizar Discord, en dónde hacer tus preguntas o tengas alguna otra inquietud, **mira este vídeo**: [Conoce la comunidad de La Academia](www.youtube.com).
 
 ## Asistencia personalizada
 - WhatsApp: [+593 96 395 3992](https://wa.me/593963953992)
