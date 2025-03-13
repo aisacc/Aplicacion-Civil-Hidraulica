@@ -43,12 +43,10 @@ En la ingeniería hidráulica se usa para diseñar sistemas como tuberías, cana
 Dado que este repositorio dispone de varias funciones, proyectos y diseños, las referencias se encuentran en cada cuaderno (archivos de nomenclatura `nb`) de la carpeta correspondiente.
 
 ## Social media
-- **Instagram:** [Aisacc](https://www.instagram.com/aisacc.me/)
+- **Instagram:** [Isacc](https://www.instagram.com/aisacc.me/)
 - **LinkedIn:** [Isacc Alpala](https://www.linkedin.com/in/isaccalpala/)
-- **YouTube:** [Aisacc](https://www.youtube.com/@aisacc-me/)
 
 ## Comparte conmigo tus dudas o recomendaciones
-- **WhatsApp:** [Invitación al grupo](https://chat.whatsapp.com/DpeALUy4xA8BmaX6U656n6). Aquí podemos platicar de todo un poco sobre **ingeniería y programación**. 
 - **Discord:** [Comunidad Technica](https://discord.com/invite/V6MedeXDkA). Aquí puedes postear tus dudas sobre **programación y otras herramientas de ingeniería**.
 
 Si no sabes cómo utilizar Discord, en dónde hacer tus preguntas o tengas alguna otra inquietud, **mira este vídeo**: [Conoce la comunidad de Technica](www.youtube.com).
