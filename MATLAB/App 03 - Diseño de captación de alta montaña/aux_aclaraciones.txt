@@ -1,4 +1,0 @@
-Este diseño se basa en el archivo "aux_diseño_captacion.xls" proporcionado por el PhD. Patricio Ortega, profesor universitario, especialidad en hidráulica,
-en la Facultad de Ingeniería Civil y Ambiental (FICA) de la Escuela Politécnica Nacional (EPN).
-
-Asimismo, el desarrollo ha sido bajo su supervisión. Un agradecimiento por su apoyo y paciencia.
